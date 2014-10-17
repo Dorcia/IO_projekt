@@ -1,0 +1,27 @@
+Najwa¿niejsze:
+Sterowanie wê¿em
+Po zjedzeniu owocu w¹¿ wyd³u¿a siê
+Po zderzeniu z brzegiem planszy nastêpuje koniec gry
+Po zderzeniu ze samym sob¹ nastêpuje koniec gry
+Generuj¹cy siê losowo owoc
+
+Œrednio wa¿ne:
+Wyœwietlanie owocu
+Wyœwietlanie wê¿a
+Plansza
+Punktacja
+
+Najmniej wa¿ne:
+Gracz zapisuje wyniki
+Gracz wyœwietla wyniki
+Gracz zapisuje gre
+Gracz odczytuje gre
+Gracz zmienia wyglad wê¿a
+Gracz uruchamia now¹ gre
+
+
+S³owniczek:
+w¹¿- obiekt sterowany przez gracza, maj¹cy wspó³rzêdne po³o¿enia, przedstawiony na ekranie za pomoc¹ pikseli
+owoc- obiekt na planszy, umo¿liwiaj¹cy dodanie punktów,maj¹cy losowe wspó³rzêdne po³o¿enia, reprezentowany na ekranie za pomoc¹ pikseli
+gracz- osoba korzystaj¹ca z programu, steruj¹ca wê¿em za pomoc¹ klawiszy,
+sterowanie wê¿em- podejmowanie decyzji dotycz¹cych kierunku wyœwietlania pikseli (lewo, prawo, gora dol) przez gracza
